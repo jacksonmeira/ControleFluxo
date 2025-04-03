@@ -8,6 +8,9 @@ O programa realiza o seguinte fluxo:
 
 • Recebe dois números inteiros via terminal.
 
-• Se o primeiro número for maior que o segundo, uma exceção personalizada será lançada com a mensagem de erro: "O segundo parâmetro deve ser maior que o primeiro".
+• Se o primeiro número for maior que o segundo, uma exceção personalizada será lançada com a mensagem de erro: "O segundo parâmetro deve ser 
+  maior que o primeiro".
 
-• Caso contrário, o programa realiza uma contagem de 1 até a diferença entre o segundo número e o primeiro, imprimindo a mensagem "Imprimindo o número X" a cada interação.
+• Caso contrário, o programa realiza uma contagem de 1 até a diferença entre o segundo número e o primeiro, imprimindo a mensagem 
+  "Imprimindo o número X" a cada interação.
+  
